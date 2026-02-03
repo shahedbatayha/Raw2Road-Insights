@@ -1,6 +1,7 @@
 # Raw2Road-Insights
 a whole preprocessing system for used cars data
 # 🚗 Raw2Road Insights: Used Cars Data Engineering
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/868d365f-da00-4b22-96ed-f1b92bc57d42" />
 
 An end-to-end Data Engineering project designed to transform raw, messy used car data into a clean, structured format ready for Machine Learning.
 
